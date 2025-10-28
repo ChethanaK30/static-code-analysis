@@ -1,0 +1,7 @@
+************* Module inventory_system
+inventory_system.py:71:0: C0301: Line too long (117/100) (line-too-long)
+inventory_system.py:7:0: W0611: Unused Iterable imported from typing (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 9.73/10 (previous run: 9.68/10, +0.04)
+
